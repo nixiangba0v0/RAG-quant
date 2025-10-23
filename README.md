@@ -1,2 +1,2 @@
 # RAG-quant
-常见知识库RAG素材
+常见quant知识库markdown格式
